@@ -1,0 +1,55 @@
+﻿ID,Accuracy,RT,PHQ9,CESD,DASS,PRMQ1,Confidence,JOL,O1,OZ,O2,P3,PZ,P4,Age,Sex,Gender,Race,Ethnicity,Handedness
+PMD02,73.61111111,1116.633001,16,33,7,27,11,60,-6.24,-6.856,-8.709,5.933,4.483,-2.124,,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD03,76.38888889,805.9575027,13,26,0,28,8,83,-8.447,-9.588,-11.056,1.551,1.785,-0.738,18,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD04,77.77777778,713.4431929,13,37,14,27,8,95,-2.105,-1.606,-0.879,-4.668,-4.044,-3.622,,Male,Transgender Nonbinary,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD05,68.05555556,1137.573536,16,40,16,37,22,87,-2.702,-2.347,-2.472,2.191,0.527,-1.259,18,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD06,18.05555556,796.787629,10,32,10,27,12,70,-4.068,-1.122,-2.215,0.483,2.186,4.175,18,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD08,94.44444444,836.0346417,10,38,6,23,13,65,5.698,3.952,4.591,4.417,4.018,2.169,18,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD09,90.27777778,1002.515621,16,36,5,22,18,75,1.188,1.246,0.662,1.846,4.978,3.293,18,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD10,27.77777778,1219.304303,23,48,18,38,20,80,-10.135,-10.42,-9.277,-4.078,-5.385,-6.218,19,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD11,87.5,1139.404717,3,28,3,25,15,60,-0.948,-1.389,0.674,-0.081,0.47,-0.472,22,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD12,93.05555556,1030.054932,11,29,11,27,8,78,-10.454,-12.163,-8.802,-4.471,3.542,4.918,18,Male,Male ,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD16,22.22222222,847.3267153,14,43,12,27,10,90,0.885,-1.222,1.099,1.565,1.668,-1.285,18,Male,Male ,"	e. White",Hispanic or Latino,Right handed
+PMD17,62.5,1400.999523,3,29,3,30,14,20,5.537,5.169,5.109,-1.06,-0.879,-1.501,18,Female,Female,,Hispanic or Latino,Right handed
+PMD18,90.27777778,910.0460222,2,22,1,19,7,60,-3.616,0.588,-1.144,1.289,6.357,5.603,18,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD19,94.44444444,1054.6101,13,42,10,37,13,85,1.229,1.529,0.783,2.451,2.657,1.516,18,Female,Transgender Male/Trans Man/FTM,e. White,b. Not Hispanic or Latino,Right handed
+PMD20,90.27777778,902.0841847,14,41,12,32,18,60,4.101,5.581,7.649,1.326,4.108,4.327,18,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD21,43.05555556,875.2703458,3,19,0,18,7,75,0.236,0.912,4.428,4.647,5.029,5.005,18,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD22,81.94444444,800.2779611,1,21,0,17,7,65,-3.48,-2.136,-1.81,1.629,2.271,2.43,18,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD23,94.44444444,1034.851849,17,37,9,33,16,70,1.732,1.834,1.937,1.942,2.126,0.947,18,Male,Transgender Female/Trans Woman/MTF,e. White,b. Not Hispanic or Latino,Right handed
+PMD24,88.88888889,906.8643847,10,30,9,24,20,60,-3.792,-4.124,-5.205,4.845,4.679,0.838,18,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD25,84.72222222,763.4345514,3,27,6,20,7,80,0.231,0.833,0.268,3.81,2.089,-0.126,19,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD26,62.5,993.7992319,20,40,7,37,19,60,-0.854,-0.637,-1.541,1.722,2.196,0.811,18,Female,Transgender Male/Trans Man/FTM,e. White,Hispanic or Latino,Right handed
+PMD27,55.55555556,537.7835431,3,26,2,23,11,80,2.831,2.037,0.797,1.354,0.582,2.96,18,Female,Female,"	e. White",Hispanic or Latino,Right handed
+PMD28,36.11111111,1605.864797,13,39,8,34,15,80,3.193,3.686,2.959,1.724,1.196,1.09,20,Male,Male ,f. Do not wish to respond,Hispanic or Latino,Right handed
+PMD30,52.77777778,1133.325704,18,34,5,29,16,70,4.404,3.47,4.137,0.961,3.051,2.204,19,Female,Female,a. Native American or Alaska Native,Hispanic or Latino,Right handed
+PMD31,95.83333333,1286.4999,3,24,1,20,13,70,5.646,3.66,3.41,3.11,4.834,3.325,20,Male,Male,e. White,c. Do not wish to respond,Right handed
+PMD32,75,1010.984193,3,22,1,33,11,95,-6.205,-6.124,-5.757,-3.445,-0.866,0.235,19,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD33,65.27777778,646.758425,14,32,4,27,14,75,-0.014,-0.091,-1.467,3.233,-0.378,3.418,26,Female,Female,"	e. White","	b. Not Hispanic or Latino",Left handed
+PMD34,13.88888889,282.676568,0,19,2,22,13,80,2.641,4.267,1.939,0.261,-0.963,-0.679,18,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD35,90.27777778,749.858057,12,24,5,28,11,80,10.002,9.913,11.304,3.981,2.234,0.642,18,Female,Gender Queer,e. White,b. Not Hispanic or Latino,Right handed
+PMD36,75,1517.967176,11,33,5,23,13,50,0.227,3.304,2.207,0.7,2.428,1.536,19,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD37,58.33333333,608.3528236,13,30,3,25,11,75,-1.974,-1.268,-1.398,3.02,5.002,4.361,18,Female,Female,"	e. White","	b. Not Hispanic or Latino",Right handed
+PMD38,11.11111111,787.4096784,24,52,18,39,12,30,-2.704,-2.261,-6.639,2.256,3.765,-2.8,22,Female,Female,"a. Native American or Alaska Native,	c. Black or African American",Hispanic or Latino,Right handed
+PMD39,86.11111111,774.5320847,11,38,9,26,10,70,0.158,0.018,-0.271,1.333,2.634,2.442,18,Male,Male ,e. White,b. Not Hispanic or Latino,Right handed
+PMD41,13.88888889,1035.780068,12,43,13,31,18,80,5.268,7.686,8.184,1.542,3.79,1.414,18,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD42,75,738.8024041,3,19,0,19,6,75,4.776,4.306,4.582,4.443,5.568,3.8,22,Male,Male ,e. White,b. Not Hispanic or Latino,Right handed
+PMD43,41.66666667,809.1995278,2,22,1,28,8,15,1.941,1.473,0.994,1.973,1.621,-0.973,30,Female,Female,c. Black or African American,b. Not Hispanic or Latino,Right handed
+PMD44,63.88888889,1636.832174,18,40,8,34,17,40,-4.084,-5.732,-5.555,-2.684,-2.581,-3.116,25,Male,Male ,e. White,b. Not Hispanic or Latino,Right handed
+PMD45,90.27777778,912.85575,16,38,12,18,14,70,0.428,0.529,1.774,0.218,2.215,2.01,18,Male,Male ,f. Do not wish to respond,Hispanic or Latino,Right handed
+PMD46,93.05555556,1044.373699,16,37,7,32,17,85,1.013,0.952,1.346,0.743,1.279,1.001,19,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD47,83.33333333,2093.869869,2,25,1,17,11,15,2.246,0.496,1.163,2.333,4.048,3.016,19,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD48,48.61111111,1155.04296,18,51,7,34,8,50,-2.9,-1.615,-0.081,2.066,4.474,1.69,19,Female,Transgender Male/Trans Man/FTM,e. White,Hispanic or Latino,Right handed
+PMD49,98.61111111,808.5255833,11,29,6,26,14,75,4.331,2.489,1.462,2.864,5.078,3.022,19,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD50,97.22222222,846.4456361,0,21,0,25,9,70,0.741,0.843,0.985,-1.9,-1.357,0.829,18,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD51,37.5,1168.119961,3,44,4,24,15,40,1.372,2.147,3.229,1.491,4.463,2.449,20,Female,Female,e. White,Hispanic or Latino,Right handed
+PMD52,94.44444444,1075.354882,2,22,1,17,8,75,6.053,2.676,5.558,4.159,2.975,-0.84,19,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD54,87.5,1003.072725,0,19,2,13,8,70,-0.099,-1.94,-1.245,2.177,2.69,1.326,19,Female,Gender Queer,e. White,b. Not Hispanic or Latino,Right handed
+PMD56,91.66666667,1051.797343,3,27,3,20,10,99,-4.701,-3.457,-2.457,0.136,0.938,1.42,21,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD57,81.94444444,887.0446944,2,21,1,19,9,70,1.487,0.62,1.546,1.006,0.214,-0.708,19,Female,Female,e. White,b. Not Hispanic or Latino,Right handed
+PMD58,95.83333333,908.4698236,0,21,0,15,10,90,0.591,-0.888,0.176,-0.187,-0.474,2.241,36,Male,Male ,e. White,b. Not Hispanic or Latino,Right handed
+PMD59,94.44444444,1423.620036,0,23,2,12,6,80,1.887,1.837,3.343,2.308,3.092,3.554,19,Male,Male ,e. White,b. Not Hispanic or Latino,Right handed
+PMD60,91.66666667,1363.804062,16,40,9,35,15,60,4.689,6.488,7.069,4.951,5.405,5.254,20,Female,Female,e. White,b. Not Hispanic or Latino,Left handed
+PMD61,44.44444444,1366.920821,3,26,0,16,10,85,-1.909,-2.32,-3.692,0.027,2.111,1.116,20,Female,Female,f. Do not wish to respond,Hispanic or Latino,Right handed
+PMD62,94.44444444,1320.366708,1,20,1,20,8,65,3.951,3.045,4.117,1.618,2.198,2.063,22,Male,Male ,e. White,b. Not Hispanic or Latino,Right handed
+PMD63,86.11111111,1073.51506,0,24,4,27,10,85,1.074,0.687,2.108,1.366,3.376,3.374,19,Male,Male ,e. White,b. Not Hispanic or Latino,Right handed
