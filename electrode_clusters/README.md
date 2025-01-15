@@ -2,5 +2,5 @@ I investigated the relationship between electrode clusters used to assess two fa
 
 The sample is likely not large enough to show accurate results, but it can be retested as more data is collected.
 
-Currently, the resultssuggest that there are other factors besides the electrode connectivity, depression levels, and reaction time predicting cognitive accuracy.
+Currently, the results suggest that there are other factors besides the electrode connectivity, depression levels, and reaction time predicting cognitive accuracy.
 
